@@ -1,4 +1,4 @@
-public class diff {
+public class mul {
     public static void main(String[] args) {
         int a = 5;
         int b = 6;
